@@ -62,6 +62,9 @@ ViT heavily relies on data augmentation techniques, such as random cropping and 
 
 After running for 10 epochs, the modela achieved accuracy of 84% on validation data.
 
+<h1>ROC Curve</h1>
+<img src="ROC.png" alt="ROC Curve">
+
 ## References
 
 1. [Vision Transformer](https://arxiv.org/pdf/2010.11929.pdf)
